@@ -3,9 +3,9 @@ main(List<String> args) {
   for(int i = 0; i <= 10; i++){
     print('Numero: $i');
     break;
-    // Break corta totalmente a sentencia 
+    // Break corta totalmente la sentencia 
     // de control en la que se encuentra
-    // al llegar al brek sale del for.
+    // al llegar al break sale del for.
     print('------');
     
   }
